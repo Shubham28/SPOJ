@@ -1,0 +1,35 @@
+DP
+
+•	Easy - ACPC10D, IOIPALIN, CANDYSTN, MBALL
+
+ADHOC
+
+•	Easy - ABSYS, ACS, ITRIX_B, FEELUCK, EGYPIZZA, MIRRORED, HOMO
+	
+•	Medium - MNMXPATH
+
+QUERY & UPDATE
+
+•	Sparse Table Algorithm - FREQUENT,THRBL
+	Segment Tree - GSS1, GSS3, LITE, MULTQ3, BRCKTS, THRBL
+	Offline Algorithm - DQUERY, KQUERY
+	
+
+COMBINATORICS
+
+•	Counting - KOMPICI (Medium)
+
+•	Probability - MYSTIC
+
+c++ STL DATA STRUCTURE
+
+•	Medium - FAVSUBS
+•	Hard - NICEDAY
+
+GRAPHS
+
+•	Traversal - FACEFRND
+
+BINARY SEARCH
+
+•	Easy - HANGOVER
